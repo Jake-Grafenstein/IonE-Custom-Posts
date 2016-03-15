@@ -1,4 +1,12 @@
 <?php
+/*
+*	Theme: IonE Mana Child
+*	Title: IonE Shortcodes
+*	Author: Jacob Grafenstein
+*	Author URI: https://github.com/Jake-Grafenstein
+*	Description: Shortcodes to display staff members and fellows based on their program or fellow type, respectively.
+*/
+
 function add_staff( $program ) {
 	$args = array(
 		'program'=>$program,

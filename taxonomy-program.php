@@ -4,7 +4,7 @@
 *	Title: Taxonomy Program
 *	Template: archive.php
 *	Original Author: Jake Grafenstein
-* Author URI: http://github.com/Jake-Grafenstein
+* Author URI: https://github.com/Jake-Grafenstein
 *	Description: Built off the template for archive pages, this template
 *				 displays all the staff members in a given program.
 * 	@package WordPress

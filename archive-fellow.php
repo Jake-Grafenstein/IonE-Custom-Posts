@@ -2,8 +2,9 @@
 /*
 * Theme: IonE Mana Child
 * Title: Archive Fellow
+* Template: archive.php
 * Original Author: Jake Grafenstein
-* Original Author URI: http://jakegrafenstein.com
+* Author URI: https://github.com/Jake-Grafenstein
 * Description: A template for displaying a list of Institute fellows
 */
 get_header();

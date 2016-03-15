@@ -4,7 +4,7 @@
 *	Title: Staff Archive
 *	Template: archive.php
 *	Original Author: Jake Grafenstein
-*	Original Author URI: http://jakegrafenstein.com
+*	Author URI: https://github.com/Jake-Grafenstein
 *	Description: Template for displaying the archive page for staff members.
 */
 get_header();

@@ -1,6 +1,9 @@
 //
-//  functions.js
-//  Written by: Jacob Grafenstein and Cliff Tan
+//  Theme: IonE Mana Child
+//  Title: functions.js
+//  Authors: Jacob Grafenstein and Cliff Tan
+//  Author URI: https://github.com/Jake-Grafenstein
+//  Description: Various javascript functions to affect layout and styles of HTML elements
 //
 
 // Changes the hover elements on the menu depending on window size (NOT DYNAMIC)

@@ -2,7 +2,7 @@
 /*	Theme Name: IonE Mana Child
 *	Title: Custom Post Factory
 *	Original Author: Jake Grafenstein
-* Author URI: http://github.com/Jake-Grafenstein
+* Author URI: https://github.com/Jake-Grafenstein
 *	Description: An interface for the creation of new post types
 */
 

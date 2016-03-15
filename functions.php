@@ -3,7 +3,7 @@
 *	Theme: IonE Mana Child
 *	Title: Theme Functions
 *	Original Author: Jake Grafenstein
-*	Author URI: http://github.com/Jake-Grafenstein
+*	Author URI: https://github.com/Jake-Grafenstein
 */
 
 require 'ione_shortcodes.php';
